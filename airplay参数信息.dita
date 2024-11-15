@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:reference.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<reference id="airplay_">
+    <title>airplay参数信息</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_bgg_wkz_gdc">
+            <title/>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>参数</entry>
+                        <entry>数值</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>投屏距离</entry>
+                        <entry>50米</entry>
+                    </row>
+                    <row>
+                        <entry>最大连接数</entry>
+                        <entry>1</entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

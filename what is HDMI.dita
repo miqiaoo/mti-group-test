@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_tnq_dzx_3dc">
+    <title>什么是HDMI</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>高清多媒体接口（英语：High Definition Multimedia
+                Interface，缩写：HDMI）是一种全数字化影像和声音发送接口，可以发送未压缩的音频及视频信号。HDMI可用于机顶盒、DVD播放机、个人电脑、电视游乐器、综合扩大机、数字音响与电视机等设备。HDMI可以同时发送音频和视频信号。音频和视频信号采用同一条线材的设计大大简化系统线路的安装难度。<image
+                href="HDMI.png" width="200" id="image_j3g_pzx_3dc"/></p>
+    </conbody>
+</concept>

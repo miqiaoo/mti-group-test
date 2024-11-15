@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ud4_pzy_gdc">
+    <title>Airplay</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p></p>
+        <p>隔空播放是苹果公司的在iOS4.2及OS X Mountain Lion中加入的一种播放技术，可以将iOS和OS X Mountain
+            Lion或更新版上的文件传送到支持隔空播放的设备。 使用Airplay需要iOS4.2版本的设备或Mac电脑上的iTunes10.1以上版本。</p>
+    </conbody>
+</concept>

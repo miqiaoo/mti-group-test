@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_fbk_zzy_gdc">
+    <title>如何使用Airplay将iPad投屏至投影仪</title>
+    <shortdesc>介绍通过AirPlay的方法将iPad投屏。</shortdesc>
+    <taskbody>
+        <prereq id="prereq_k1y_t1z_gdc">确保iPad与投影仪在同一个局域网内</prereq>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>从Ipad屏幕的右上方下拉，打开控制面板，如图所示。</cmd>
+                <info><image href="image/wifi.png" id="image_xky_mbz_gdc" width="300"/></info>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>屏幕镜像</uicontrol><image href="image/%E9%95%9C%E5%83%8F.jpeg"
+                        width="20" height="20" id="image_h42_bcz_gdc"/></cmd>
+            </step>
+            <step>
+                <cmd>在弹出的可选投屏设备中选择所需屏幕并按<uicontrol>确定</uicontrol>按钮。</cmd>
+                <stepresult>屏幕可以成功复制。</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link/>
+        <link href="unable%20to%20mirrow.dita" format="xml"/>
+        <link href="how%20to%20use%20HDMI.dita" format="xml"/>
+    </related-links>
+</task>

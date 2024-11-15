@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="connecting_with_hdmi">
+    <title>使用HDMI进行投屏</title>
+    <shortdesc>使用HDMI线可以实现稳定与清晰度更高的投屏</shortdesc>
+    <taskbody>
+        <prereq id="prereq_xdz_qxx_3dc">需要准备Type-c转HDMI转接头</prereq>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>将HDMI线与转接头相连</cmd>
+                <info>注意HDMI接口的正反</info>
+                <stepresult><image href="HDMI.png" id="image_qmv_myx_3dc" width="300"/></stepresult>
+            </step>
+            <step>
+                <cmd>将转接头的Type-c端口与iPad的Type-c端口相连</cmd>
+            </step>
+            <step>
+                <cmd>将控制台的信号输入源切换为笔记本输入。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link/>
+        <link href="mirror%20your%20ipad%20with%20airplay.dita" format="dita"/>
+    </related-links>
+</task>

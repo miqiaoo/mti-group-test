@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>投影仪使用说明</title>
+    <topicref href="how%20to%20connect%20your%20iPad%20with%20AirPlay.dita">
+        <topicref href="what%20is%20airplay.dita"/>
+        <topicref href="mirror%20your%20ipad%20with%20airplay.dita"/>
+        <topicref href="unable%20to%20mirrow.dita"/>
+        <topicref href="airplay%E5%8F%82%E6%95%B0%E4%BF%A1%E6%81%AF.dita"/>
+    </topicref>
+    <topicref href="how%20to%20use%20HDMI.dita">
+        <topicref href="what%20is%20HDMI.dita"/>
+        <topicref href="connecting_with_hdmi.dita"/>
+    </topicref>
+</map>
